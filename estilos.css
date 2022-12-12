@@ -1,0 +1,41 @@
+#div0{
+    font-size: 50px;       
+    width: 30%;
+    height: 17%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+body{
+
+background-image:url("millos.jpg") ;
+background-position: -20%;
+
+}
+
+#div1{
+
+    font-size: 20px;       
+    width: 10%;
+    height: 10%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#div2{
+    font-size: 20px;       
+    width: 10%;
+    height: 5%;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+
+#div3{
+    font-size: 20px;       
+    width: 10%;
+    height: 5%;
+    margin: 0 auto;
+    text-align: center;
+        }
